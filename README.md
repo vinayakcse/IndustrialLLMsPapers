@@ -2,6 +2,7 @@
 Repo containing details of industrial survey of llms. 
 
 |Paper|Venue|Year|LLMs names|Dataset Name|
+|:----|:----|:---|:---------|:-----------|
 |A Pretrained Language Model for Cyber Threat Intelligence|EMNLP Industry Track|2023|CTI-BERT|Attack description, Security Textbook, Academic Paper, Security Wiki, Threat reports, Vulnerability|
 |Investigating Table-to-Text Generation Capabilities of LLMs in Real-World Information Seeking Scenarios|EMNLP Industry Track|2023|GPT4, TULU, Pythia,  Alpaca, Vicuna, LLaMA-2, GPT-3.5|LOTNLG, F2WTQ|
 |Empower Large Language Model to Perform Better on Industrial Domain-Specific Question Answering|EMNLP Industry Track|2023|GPT-4, GPT3.5, LLaMA-2|MSQA|
