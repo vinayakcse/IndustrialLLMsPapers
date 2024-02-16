@@ -1,17 +1,5 @@
 # IndustrialSurveyLLM
-This repository contains the Industrial Survey of LLMs papers and is based on our paper, ["LLMs with Industrial Lens: Deciphering the Challenges and Prospects – A Survey"]
-
-You can cite our paper as the following
-```
-@misc{,
-      title={LLMs with Industrial Lens: Deciphering the Challenges and Prospects – A Survey}, 
-      author={A and B and C and D},
-      year={2024},
-      eprint={},
-      archivePrefix={},
-      primaryClass={}
-}
-```
+This repository contains the list of papers studied for Industrial Survey of LLM based applications 
 
 We group the papers according to the application as [NLP](#nlp), [Tools-and-Frameworks](#tools-and-frameworks), [Code-generation](#code-generation), [Trustworthy-AI](#trustworthy-ai), [Retrival-and-Recommendation](#retrival-and-recommendation), [Security](#security), [Societal-impact](#societal-impact) and [Miscellaneous-applications](#miscellaneous-applications)
 
