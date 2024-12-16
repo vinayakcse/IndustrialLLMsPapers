@@ -147,4 +147,12 @@ Under miscellaneous applications category subgroups Cloud management, Task plann
 |[Are ChatGPT and GPT-4 General-Purpose Solvers for Financial Text Analytics? A Study on Several Typical Tasks](https://aclanthology.org/2023.emnlp-industry.39)|EMNLP Industry Track|2023|ChatGPT, GPT-4, BloombergGPT, GPT-NeoX, OPT66B, BLOOM176B, FinBERT|FPB/FiQA/TweetFinSent, Headline, NER, REFinD, FinQA/ConvFinQA|
 
 
-
+You can cite our paper as the following
+```
+@article{urlana2024no,
+  title={No Size Fits All: The Perils and Pitfalls of Leveraging LLMs Vary with Company Size},
+  author={Urlana, Ashok and Kumar, Charaka Vinayak and Garlapati, Bala Mallikarjunarao and Singh, Ajeet Kumar and Mishra, Rahul},
+  conference={COLING 2025, Industry Track},
+  url={https://arxiv.org/pdf/2408.01444},
+  year={2025}
+}
